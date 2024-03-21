@@ -1,16 +1,14 @@
-# ![[tktk Module Name]](./assets/tktk-hero.png)
+# ![MEN Stack CRUD App Project](./assets/tktk-hero.png)
 
 ## About
 
-tktk Write a short but descriptive summary of the content in this module. Add a short description of the project here.
+In this project, students building a Node/Express/MongoDB application with full CRUD.
 
 ## Prerequisites
 
-tktk What are the prerequisites of this project?
+This project requires an understanding of full-stack applications built using Express, Node, MongoDB, and EJS.
 
 ## Content
-
-tktk Make a copy of the Project Requirements document linked in Google Sheets doc inside the same folder it is in now. Once you have a new URL, replace the one below. Modify the document as necessary. You may need to add or remove sections. Once you have finalized your work on the Project Requirements document in Google Sheets, download it as a PDF, name the file `project-requirements.pdf`, and add it to the `/project-requirements/assets` directory.
 
 [Project Journey](./project-journey/README.md)
 
@@ -24,9 +22,9 @@ tktk Make a copy of the Project Requirements document linked in Google Sheets do
 
 [Project Deployed Game Link Deliverable](./project-deployed-app-link-deliverable/README.md)
 
-[tktk Project Requirements PDF](./project-requirements/assets/project-requirements.pdf)
+[Project Requirements PDF](./project-requirements/assets/project-requirements.pdf)
 
-[tktk Project Requirements Google Sheets](https://docs.google.com/spreadsheets/d/17HhGcgTn9zY96FJj175uCGhaHccnA7KUDx_6Bi3xT9k/edit)
+[Project Requirements Google Sheets](https://docs.google.com/spreadsheets/d/1pFC-UECiwA1WIAPr8elKyKrO-Cq3-7R7bdsg1R2tDyQ/edit)
 
 ## Internal resources
 

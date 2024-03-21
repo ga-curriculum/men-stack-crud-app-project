@@ -1,10 +1,10 @@
-# ![[tktk Module Name] - Project Deployed App Link Deliverable](./assets/hero.png)
+# ![MEN Stack CRUD App Project - Project Deployed App Link Deliverable](./assets/hero.png)
 
 > 🚨 ***Note for the Maintainer:*** This page should not be directly linked to in student-facing material. It is a source-of-truth for the content in Canvas which is intended to potentially be edited by instructors.
 
 ## Introduction
 
-During project week, you'll deploy your project so that others are able to use it on the internet! Follow the [tktk Deployment guide](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources/deployment/tktk/) to deploy your project.
+During project week, you'll deploy your project so that others are able to use it on the internet! Follow the [MEN Stack Deployment guide](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources/deployment/men-stack/) to deploy your project.
 
 ## Details
 
