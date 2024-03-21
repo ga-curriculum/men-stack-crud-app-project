@@ -1,4 +1,4 @@
-# ![MEN Stack CRUD App Project](./assets/tktk-hero.png)
+# ![MEN Stack CRUD App Project](./assets/hero.png)
 
 ## About
 
