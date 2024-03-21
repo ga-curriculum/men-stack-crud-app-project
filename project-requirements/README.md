@@ -77,6 +77,6 @@ For this project, you'll build a Node/Express/MongoDB application with full CRUD
 Upon completion of your presentation, your instructional team will evaluate your project.
 
 - Your instructors will be using the above guidelines to determine whether or not the project passes all of the minimum requirements.
-- If your instructors determine that the project does not meet the minimum requirements, you may be provided the opportunity to address the deficiencies identified and resubmit the project. However, be aware that **there is only a single opportunity to resubmit a project during the course**. Please reach out to your student success specialist if you have questions.
+- If your instructors determine that the project does not meet the minimum requirements, you may be provided the opportunity to address the deficiencies identified and re-submit the project. However, be aware that **there is only a single opportunity to re-submit a project during the course**. Please reach out to your student success specialist if you have questions.
 - Immediately after your presentation, your instructors may provide you with feedback that will benefit your project and perhaps the projects of other students. The feedback given at this time is not formal feedback and does not indicate whether you passed or failed the project.
 - If there is a specific section of code that you would like an instructor to provide additional feedback on, please ask!
