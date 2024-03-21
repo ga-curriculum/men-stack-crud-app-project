@@ -16,7 +16,7 @@ Use [Trello](https://trello.com/) for your project planning work. This [video](h
 
 You will submit a public Trello board with these project planning details:
 
-- MVP user stories, written in the following template: **As a [user role], I want [feature], so that [reason].** If the reason is obvious, it can be excluded.![alt text](image.png)
+- MVP user stories, written in the following template: **As a [user role], I want [feature], so that [reason].** If the reason is obvious, it can be excluded.
 - Wireframes for your app's main pages. For example, if you were building a blogging app, you might have wireframes for a landing page, the posts index page, and the add post page.
 - An ERD for your app's data and the relationships between that data.
 
