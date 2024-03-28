@@ -20,7 +20,7 @@ This project requires an understanding of full-stack applications built using Ex
 
 [Project GitHub Repo Link Deliverable](./project-github-repo-link-deliverable/README.md)
 
-[Project Deployed Game Link Deliverable](./project-deployed-app-link-deliverable/README.md)
+[Project Deployed App Link Deliverable](./project-deployed-app-link-deliverable/README.md)
 
 [Project Requirements PDF](./project-requirements/assets/project-requirements.pdf)
 
