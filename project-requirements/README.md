@@ -12,7 +12,7 @@ For this project, you'll build a Node/Express/MongoDB application with full CRUD
 
 ### MVP
 
-> ✅ Any items marked incomplete in this section will require you to use your one redo to re-submit them. Your game must fulfill the below requirements.
+> ✅ Any items marked incomplete in this section will require you to use your one redo to re-submit them. Your app must fulfill the below requirements.
 
 - The app utilizes EJS Templates for rendering views to users.
 - The app uses session-based authentication.
@@ -24,7 +24,7 @@ For this project, you'll build a Node/Express/MongoDB application with full CRUD
 
 ### Code convention
 
-> ✅ More than two items marked incomplete in this section will require you to use your one redo to re-submit them. If two or fewer items are marked incomplete, the project is considered passing. Your game must fulfill the below requirements.
+> ✅ More than two items marked incomplete in this section will require you to use your one redo to re-submit them. If two or fewer items are marked incomplete, the project is considered passing. Your app must fulfill the below requirements.
 
 - The app runs without errors in both the terminal and the browser console.
 - The code in the app adheres to coding conventions covered in lessons, like using plural names for arrays.
@@ -34,7 +34,7 @@ For this project, you'll build a Node/Express/MongoDB application with full CRUD
 
 ### UI/UX
 
-> ✅ More than two items marked incomplete in this section will require you to use your one redo to re-submit them. If two or fewer items are marked incomplete, the project is considered passing. Your game must fulfill the below requirements.
+> ✅ More than two items marked incomplete in this section will require you to use your one redo to re-submit them. If two or fewer items are marked incomplete, the project is considered passing. Your app must fulfill the below requirements.
 
 - Your app exhibits a visual theme, like a consistent color palette and cohesive layout across pages.
 - CSS Flexbox or Grid is utilized for page layout design.
