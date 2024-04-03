@@ -28,7 +28,7 @@ The fun part! Start building your project!
 
 ## 4. Deploy the work you have so far
 
-During project week, you'll deploy your project to the internet and submit a link to your deployed app. See the [MEN Stack CRUD App Project Deployed Game Link Deliverable](../project-deployed-game-link-deliverable/README.md) for more details.
+During project week, you'll deploy your project to the internet and submit a link to your deployed app. See the [MEN Stack CRUD App Project Deployed Link Deliverable](../project-deployed-app-link-deliverable/README.md) for more details.
 
 Continue working on your project until presentation day.
 
