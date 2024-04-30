@@ -8,6 +8,8 @@ For this project, you'll build a Node/Express/MongoDB application with full CRUD
 
 > ❗️ As a reminder, General Assembly has a zero-plagiarism policy. ***Your project's code must be substantially yours***. Do not copy code from similar projects or other sources. However, using code from the internet to accomplish generic tasks is okay - for example, a line of code that replaces a character at a specific position in a string.
 
+A printable PDF version of these project requirements can be found [here](./assets/project-requirements.pdf).
+
 ## Technical requirements
 
 ### MVP
