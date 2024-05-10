@@ -6,7 +6,7 @@ In this project, students will build a Node/Express/MongoDB application with ful
 
 ## Prerequisites
 
-This project requires an understanding of full-stack applications built using Express, Node, MongoDB, and EJS.
+This project requires an understanding of full-stack authenticated applications built using Express, Node, MongoDB, and EJS.
 
 ## Content
 
