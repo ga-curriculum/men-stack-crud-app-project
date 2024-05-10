@@ -2,7 +2,7 @@
 
 ## About
 
-In this project, students building a Node/Express/MongoDB application with full CRUD.
+In this project, students will build a Node/Express/MongoDB application with full CRUD.
 
 ## Prerequisites
 
