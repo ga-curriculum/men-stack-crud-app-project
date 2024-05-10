@@ -27,7 +27,7 @@ You may also make additions to this document, such as:
 - Examples of previous student projects.
 - Schedule considerations such as any bonus lectures or stand ups.
 
-You may also want to make changes to the planning materials students submit and the app students use to build their planning materials. By default they'll submit planning materials using Trello - if you'd prefer something different be sure to indicate that in the Planning Deliverable document.
+You may also want to make changes to the planning materials students submit and the app students use to build their planning materials. By default students will build their planning materials using Trello for this project - if you'd prefer something different be sure to indicate that in the Planning Deliverable document.
 
 When making edits, be mindful of overwhelming students with irrelevant or unhelpful details. These documents are already dense for learners, so try not to go overboard by adding too much information.
 
