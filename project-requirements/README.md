@@ -57,7 +57,7 @@ A printable PDF version of these project requirements can be found [here](./asse
 - **Your repo should have commits that date back to the very beginning of the project**. If you start over with a new repo, do not delete the old one.
 - Commit messages should be descriptive of the work done in the commit.
 
-## README Requirements
+## README requirements
 
 > ✅ More than two items marked incomplete in this section will require you to use your one redo to re-submit them. If two or fewer items are marked incomplete, the project is considered passing. Your README must contain the below requirements.
 
@@ -68,7 +68,7 @@ A printable PDF version of these project requirements can be found [here](./asse
 - Technologies Used: List of the technologies used, for example: JavaScript and any major frameworks or libraries.
 - Next Steps: Planned future enhancements (stretch goals).
 
-## Presentation Requirements
+## Presentation requirements
 
 > ✅ Any items marked incomplete in this section will require you to use your one redo to re-submit them.
 
