@@ -2,11 +2,11 @@
 
 ## About
 
-In this project, students building a Node/Express/MongoDB application with full CRUD.
+In this project, students will build an authenticated Node/Express/MongoDB application with full CRUD.
 
 ## Prerequisites
 
-This project requires an understanding of full-stack applications built using Express, Node, MongoDB, and EJS.
+This project requires an understanding of full-stack authenticated applications built using Express, Node, MongoDB, and EJS.
 
 ## Content
 
