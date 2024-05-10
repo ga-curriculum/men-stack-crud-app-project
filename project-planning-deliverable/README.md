@@ -1,6 +1,6 @@
 # ![MEN Stack CRUD App Project - Project Planning Deliverable](./assets/hero.png)
 
-> 🚨 ***Note for the Maintainer:*** This page should not be directly linked to in student-facing material. It is a source-of-truth for the content in Canvas which is intended to potentially be edited by instructors.
+> 🚨 ***Note for the maintainer:*** This page should not be directly linked to in student-facing material. It is a source-of-truth for the content in Canvas, which is intended to potentially be edited by instructors.
 
 ## Introduction
 
@@ -26,7 +26,7 @@ To organize this information, set up the Trello board for your project with the 
 - **Wireframes**: To hold the wireframes for your app. Each wireframe should be an individual card on the list. You may also want to include Wireframes built with your stretch goals in mind. If you do this, ensure that these cards are clearly labeled.
 - **ERD**: To hold the ERD for your project. You may want to include an ERD built with your stretch goals in mind as well. If you do this, ensure it is clearly labeled on a separate card.
 
-During planning, you may want to include additional user stories that describe stretch goal features that go beyond the project requirements. Ensure these are in a separate list called **Stretch Goal user stories** on your Trello board.
+During planning, you may want to include additional user stories that describe stretch goal features that go beyond the project requirements. Ensure these are in a separate list called **Stretch Goal User Stories** on your Trello board.
 
 An example of an acceptable Trello board submission is shown here:
 
