@@ -54,7 +54,7 @@ A printable PDF version of these project requirements can be found [here](./asse
 
 - You are shown as the only contributor to the project on GitHub.
 - The GitHub repository used for the project is named appropriately. For example, names like book-binder or wellness-tracker are appropriate names, whereas ga-project or men-stack-project are not. The repo must be publicly accessible. ***Be sure to create the repo on your personal GitHub account and ensure that it is public.***
-- **Your repo should have commits that date back to the very beginning of the project**. If you start over with a new repo, do not delete the old one. Your commit messages should be descriptive of the work done in that commit.
+- **Your repo should have commits that date back to the very beginning of the project**. If you start over with a new repo, do not delete the old one.
 - Commit messages should be descriptive of the work done in the commit.
 
 ## README Requirements
