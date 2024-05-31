@@ -21,8 +21,8 @@ A printable PDF version of these project requirements can be found [here](./asse
 - The app's files are organized following the conventions taught in lectures.
 - The app has at least one data entity in addition to the User model. At least one entity must have a relationship with the User model.
 - The app has full CRUD functionality.
-- The app uses middleware to restrict access to specific features (authorization), ensuring they are not accessible to anonymous users.
-- The app is deployed online so that the rest of the world can use it!
+- Authorization is implemented in the app. Guest users (those not signed in) should not be able to create, update, or delete data in the application or access functionality allowing those actions.
+- The app is deployed online so that the rest of the world can use it.
 
 ### Code convention
 
@@ -48,7 +48,7 @@ A printable PDF version of these project requirements can be found [here](./asse
 - No text is placed on top of an image in a way that makes the text inaccessible.
 - All buttons are styled.
 
-### Git
+### Git and GitHub
 
 > ✅ Any items marked incomplete in this section will require you to use your one redo to re-submit them. Your interactions with Git and GitHub must fulfill the below requirements.
 
@@ -59,20 +59,21 @@ A printable PDF version of these project requirements can be found [here](./asse
 
 ## README requirements
 
-> ✅ More than two items marked incomplete in this section will require you to use your one redo to re-submit them. If two or fewer items are marked incomplete, the project is considered passing. Your README must contain the below requirements.
+> ✅ More than two items marked incomplete in this section will require you to use your one redo to re-submit them. If two or fewer items are marked incomplete, the project is considered passing. Your README must contain the items or sections below.
 
-- Screenshot/Logo: A screenshot of your app or a logo.
-- Your app's title: Include a description of your app and its functionality. Background info about the app and why you built it is a nice touch.
-- Getting Started: Include a link to your deployed app. This should also contain a link to your planning materials.
-- Attributions (if applicable): Include links to any external resources (such as libraries or assets) you used to develop your application.
-- Technologies Used: List of the technologies used, for example: JavaScript and any major frameworks or libraries.
-- Next Steps: Planned future enhancements (stretch goals).
+- **Screenshot/Logo**: A screenshot of your app or a logo.
+- **Your app's name**: Include a description of your app and its functionality. Background info about the app and why you built it is a nice touch.
+- **Getting started**: Include a link to your deployed app and a link to your planning materials.
+- **Attributions**: This section should include links to any external resources (such as libraries or assets) you used to develop your application that require attribution. You can exclude this section if it does not apply to your application.
+- **Technologies used**: List of the technologies used, for example: JavaScript and any major frameworks or libraries.
+- **Next steps**: Planned future enhancements (stretch goals).
 
 ## Presentation requirements
 
 > ✅ Any items marked incomplete in this section will require you to use your one redo to re-submit them.
 
 - Present your project in front of the class on the scheduled presentation day.
+- The project you present is the project you were approved by your instructor to build.
 
 ## Evaluation
 
