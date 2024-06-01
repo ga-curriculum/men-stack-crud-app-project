@@ -47,8 +47,8 @@ Some instructors may want to split the project deliverable into multiple parts t
 
 **Coupled**:
 
-- [Project Planning and GitHub Repo Link Deliverable](./project-planning-and-github-repo-link-deliverable/README.md)
-- [Project GitHub Repo and Deployed App Links Deliverable](./project-github-repo-and-deployed-app-links-deliverable/README.md)
+- [Project Planning and GitHub Repo Link Deliverable](../project-planning-and-github-repo-link-deliverable/README.md)
+- [Project GitHub Repo and Deployed App Links Deliverable](../project-github-repo-and-deployed-app-links-deliverable/README.md)
 
 ## Notes for maintainers
 
